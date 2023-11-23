@@ -1,4 +1,4 @@
-# Learning Next.js v13.x with app folder over previous api & page folder
+# Learning Next.js v14.x with app folder over previous api & page folder
 
 ### css modules
 - make css file a module like `foo.module.css` then import it like `import styles from './foo.module.css'`
